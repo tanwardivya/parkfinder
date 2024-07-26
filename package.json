@@ -1,0 +1,32 @@
+{
+  "name": "parkingapi",
+  "version": "1.0.0",
+  "description": "MLH Hackathon ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanwardivya/parkfinder.git"
+  },
+  "keywords": [
+    "NodeJs"
+  ],
+  "author": "provectus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanwardivya/parkfinder.git"
+  },
+  "homepage": "https://github.com/tanwardivya/parkfinder#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nano": "^10.0.0",
+    "nodemon": "^3.0.1",
+    "request": "^2.88.2",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.6.1",
+    "url": "^0.11.0"
+  }
+}
